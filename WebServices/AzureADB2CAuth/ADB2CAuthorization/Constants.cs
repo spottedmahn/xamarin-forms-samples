@@ -3,16 +3,16 @@
     public static class Constants
     {
         // set your tenant name, for example "contoso123tenant"
-        static readonly string tenantName = "<INSERT_YOUR_TENANT_NAME>";
+        static readonly string tenantName = "spottedmahnb2c";
 
         // set your tenant id, for example: "contoso123tenant.onmicrosoft.com"
-        static readonly string tenantId = "<INSERT_YOUR_TENANT_ID>";
+        static readonly string tenantId = "spottedmahnb2c.onmicrosoft.com";
 
         // set your client/application id, for example: aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee"
-        static readonly string clientId = "<INSERT_YOUR_CLIENT_ID>";
+        static readonly string clientId = "3f748dfd-91ed-4b50-a41c-6ca5242a2043";
 
         // set your sign up/in policy name, for example: "B2C_1_signupsignin"
-        static readonly string policySignin = "<INSERT_SIGNUP_SIGNIN_POLICY_NAME>";
+        static readonly string policySignin = "B2C_1_Mobile";
 
         // set your forgot password policy, for example: "B2C_1_passwordreset"
         static readonly string policyPassword = "<INSERT_PASSWORD_RESET_POLICY_NAME>";
